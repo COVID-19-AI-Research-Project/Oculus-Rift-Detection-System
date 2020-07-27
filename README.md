@@ -3,7 +3,7 @@
 
 [![COVID-19 Detection System For Oculus Rift](Media/Images/Oculus-Rift-covid-19-detection-system.png)](https://github.com/COVID-19-AI-Research-Project/Oculus-Rift-Detection-System)
 
-[![CURRENT VERSION](https://img.shields.io/badge/CURRENT%20VERSION-0.0.0-blue.svg)](https://github.com/COVID-19-AI-Research-Project/Oculus-Rift-Detection-System/tree/0.0.0) [![CURRENT DEV BRANCH](https://img.shields.io/badge/CURRENT%20DEV%20BRANCH-0.1.0-blue.svg)](https://github.com/COVID-19-AI-Research-Project/AI-Classification/tree/0.1.0) [![Issues Welcome!](https://img.shields.io/badge/Contributions-Welcome-lightgrey.svg)](CONTRIBUTING.md) [![Issues](https://img.shields.io/badge/Issues-Welcome-lightgrey.svg)](issues) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-blue.svg)](LICENSE)
+[![CURRENT VERSION](https://img.shields.io/badge/CURRENT%20VERSION-0.1.0-blue.svg)](https://github.com/COVID-19-AI-Research-Project/Oculus-Rift-Detection-System/tree/0.1.0) [![CURRENT DEV BRANCH](https://img.shields.io/badge/CURRENT%20DEV%20BRANCH-0.2.0-blue.svg)](https://github.com/COVID-19-AI-Research-Project/AI-Classification/tree/0.2.0) [![Issues Welcome!](https://img.shields.io/badge/Contributions-Welcome-lightgrey.svg)](CONTRIBUTING.md) [![Issues](https://img.shields.io/badge/Issues-Welcome-lightgrey.svg)](issues) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-blue.svg)](LICENSE)
 
 &nbsp;
 
@@ -46,7 +46,7 @@ Developers that have contributed to this repository have experience in using Art
 
 [![Oculus Rift](Media/Images/oculus-rift.jpg)](https://www.oculus.com/rift/)
 
-This project uses the orginal Oculus Rift for Virtual Reality and Oculus Touch.
+This project uses the orginal [Oculus Rift](https://www.oculus.com/rift/) for Virtual Reality and Oculus Touch.
 
 &nbsp;
 

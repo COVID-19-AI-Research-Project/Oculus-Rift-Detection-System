@@ -24,7 +24,7 @@
 
 # Introduction
 
-The COVID-19 Detection System For Oculus Rift 2020 uses Tensorflow 2, Raspberry Pi 4 & Oculus Rift to provide a spatial computing detection system.
+The COVID-19 Detection System For Oculus Rift 2020 uses Tensorflow 2, Raspberry Pi 4 & Oculus Rift to provide a Virtual Reality detection system.
 
 The project uses the [COVID-19 Tensorflow DenseNet Classifier](https://github.com/COVID-19-AI-Research-Project/AI-Classification/blob/master/Projects/2 "COVID-19 Tensorflow DenseNet Classifier") a Tensorflow implementation of DenseNet and the [SARS-COV-2 Ct-Scan Dataset](https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset "SARS-COV-2 Ct-Scan Dataset"), a large dataset of CT scans for SARS-CoV-2 (COVID-19) identification created by our partners at [Lancaster University](https://www.lancaster.ac.uk/), Plamenlancaster: [Professor Plamen Angelov](https://www.lancaster.ac.uk/lira/people/#d.en.397371) Centre Director @ [Lira](https://www.lancaster.ac.uk/lira/), & his researcher, [Eduardo Soares PhD](https://www.lancaster.ac.uk/sci-tech/about-us/people/eduardo-almeida-soares).
 
@@ -34,7 +34,7 @@ We use the trained model from **COVID-19 Tensorflow DenseNet Classifier** with t
 
 # DISCLAIMER
 
-These projects should be used for research purposes only. The purpose of the projects are to show the potential of Spatial Computing, Artificial Intelligence, and the Internet of Things for medical support systems such as diagnosis systems. 
+These projects should be used for research purposes only. The purpose of the projects are to show the potential of Virtual Reality, Artificial Intelligence, and the Internet of Things for medical support systems such as diagnosis systems. 
 
 Although the classifier used in this project is very accurate and shows good results both on paper and in real world testing, it is not meant to be an alternative to professional medical diagnosis. 
 
